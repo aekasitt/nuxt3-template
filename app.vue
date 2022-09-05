@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-  useHead({
-    viewport: 'width=device-width, inital-scale=1, maximum-scale=1, viewport-fit=cover',
-  })
+useHead({
+  viewport: 'width=device-width, inital-scale=1, maximum-scale=1, viewport-fit=cover',
+})
 </script>
