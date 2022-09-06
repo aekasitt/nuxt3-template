@@ -1,5 +1,6 @@
 {
   "name": "nuxt3-template",
+  "description": "Nuxt3 Template with Tailwindcss, ColorMode, and daisyUI",
   "version": "0.1.0",
   "private": true,
   "scripts": {
